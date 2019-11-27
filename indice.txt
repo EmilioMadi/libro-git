@@ -4,4 +4,3 @@ Capítulo 3: Gestión de ramas
 Capítulo 4: Repositorios remotos
 HOLA BUENOS DIAS
 ADIOS BUENAS NOCHES
-hola que tal
